@@ -1,0 +1,7 @@
+.style-type-none {
+  list-style-type: none;
+}
+
+.routerLinkActiveBackground {
+  background: rgba(100, 143, 176, 0.772);
+}

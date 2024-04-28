@@ -15,3 +15,9 @@
 - Stopped at website 06
 
 # 20/4/2024
+
+- Fixed nav bar
+- Created App Routing (Important!)
+- Used dependency injection for titleService (read about this in good code / bad code book)
+- 2 Pomodoro cycles - Great fucking job me holy shit
+- Finished website 07, start next time with 08
