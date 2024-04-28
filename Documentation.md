@@ -13,3 +13,5 @@
 - Built site header, made CSS class, learned the html class shortcut: mything.classIWantItToHave (then press enter)
 - Problems with navbar display: "Home" has "unordered list dot" and is not centered, need fix
 - Stopped at website 06
+
+# 20/4/2024
